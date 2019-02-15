@@ -1,0 +1,31 @@
+.Form{
+  background: #ddd;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.co{
+  width: 98%;
+  background: #adc;
+  border-radius: 1%;
+  box-shadow: 2px 2px 2px black;
+  margin: 1%;
+  padding: 1%;
+}
+.sub{
+  width: 45%;
+  background: #adc;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 1%;
+  box-shadow: 2px 2px 2px black;
+}
+input,
+select{
+  width: 90%;
+  padding: 1%;
+  margin: 1%;
+}
